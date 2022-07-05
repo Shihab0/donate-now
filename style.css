@@ -9,7 +9,6 @@ body{
             /* Top Section */
 
 .top-section{
-    border: 1px solid red;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -41,3 +40,45 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
+
+              /* Donate Section */
+
+.donate-section{
+    margin-top: 80px;
+}
+.donate-div{
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+.donate-amount{
+    display: flex;
+    gap: 30px;
+    justify-content: center;   
+}
+h3{
+    background-color: #ebe2e2;
+    padding: 20px 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.slected-amount{
+    color: tomato;
+    border: 2px solid tomato;
+}
+ input[type="text"]{
+    display: block;
+    margin: 20px auto;
+    width: 60%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+ }
+ input::placeholder{
+    text-align: center;
+    font-size: 18px;
+ }
