@@ -104,18 +104,21 @@ h3{
 }    
 .card1{
     border-radius: 10px;
+    width: 26%;
     padding: 40px 5px 5px 20px;
     background-color: #def8f8;
     box-shadow: 5px 5px 10px gray;
 }
 .card2{
     border-radius: 10px;
+    width: 26%;
     padding: 40px 5px 5px 20px;
     background-color: #ecd9dc;
     box-shadow: 5px 5px 10px gray;
 }
 .card3{
     border-radius: 10px;
+    width: 26%;
     padding: 40px 5px 5px 20px;
     background-color: #ebe1e1;
     box-shadow: 5px 5px 10px gray;
