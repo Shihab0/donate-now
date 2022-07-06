@@ -167,7 +167,7 @@ h3{
     justify-content: center;
     align-items: center;
     padding: 60px 0;
-    background-color: #eedfe1;
+    background-color: #d7d7d7;
     box-shadow: 5px 5px 10px gray;
     border-radius: 10px;
 }
@@ -175,9 +175,10 @@ input[type="email"]{
     width: 250px;
     height: 50px;
     padding: 5px 15px;
-    border: 2px solid #AF3D18;
+    border: none;
     border-radius: 5px;
     outline: none;
+    background-color: #fbf8f8;
 }
 
       /* Footer */
